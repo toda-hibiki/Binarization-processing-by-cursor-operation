@@ -1,0 +1,1 @@
+# Binarization-processing-by-cursor-operation
