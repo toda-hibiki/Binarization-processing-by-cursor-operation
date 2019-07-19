@@ -4,7 +4,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # 画像をグレースケールとして読み込む
-src = cv2.imread('050.png', 0)
+src = cv2.imread('image.png', 0)
 dst = src.copy()
 
 # トラックバーを動かしたときに呼ばれる関数
