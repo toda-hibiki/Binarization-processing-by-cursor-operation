@@ -1,4 +1,4 @@
-# Binarization-processing-by-cursor-operation]
+# Binarization-processing-by-cursor-operation
 
 Overview
 -
